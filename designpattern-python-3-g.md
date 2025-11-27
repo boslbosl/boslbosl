@@ -1,6 +1,3 @@
-물론입니다. 복사/붙여넣기에 편한 **Markdown 마크업** 형태로 전체 내용을 변환해 드릴게요. 제목, 코드, 인용, 강조 모두 마크다운 문법에 맞게 구성했습니다.
-
-````markdown
 # Python에서의 디자인 패턴 적용
 
 ## 1. OOP 정적 언어 vs. Python: 디자인 패턴 적용 차이점
@@ -186,7 +183,3 @@ class Radio:
 
 [^1]: Peter Norvig, *Design Patterns in Dynamic Languages*
 
-```
-
-필요 시 `.md` 확장자로 저장하면 GitHub, VS Code, Typora 등에서 바로 마크다운 문서로 활용하실 수 있습니다. 더 추가하거나 특정 포맷으로 변환해드릴 부분이 있으면 알려주세요!
-```
